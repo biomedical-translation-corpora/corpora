@@ -14,7 +14,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 | EDP           |               | [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |   |
 | Medline       | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjQjZmYlRZWHQ4SUE)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjQjZmYlRZWHQ4SUE)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjQjZmYlRZWHQ4SUE)  |
 | ReBEC         |               |               | [training](https://github.com/biomedical-translation-corpora/rebec)  |
-| Scielo        | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM), [test WMT'16](https://drive.google.com/drive/folders/0B3UxRWA52hBjekJpLUI0VnVqUjg)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM), [test WMT'16](https://drive.google.com/drive/folders/0B3UxRWA52hBjekJpLUI0VnVqUjg)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM) , [test WMT'16](https://drive.google.com/drive/folders/0B3UxRWA52hBjekJpLUI0VnVqUjg) |
+| Scielo        | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM), [test WMT'16](https://drive.google.com/drive/folders/0B3UxRWA52hBjekJpLUI0VnVqUjg)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM), [test WMT'16](https://drive.google.com/drive/folders/0B3UxRWA52hBjekJpLUI0VnVqUjg), [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjSkhJNnI2dWxwOHM)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjR2xXT01FN0Z2ZHM) , [test WMT'16](https://drive.google.com/drive/folders/0B3UxRWA52hBjekJpLUI0VnVqUjg), [test WMT'17] |
 
 ### Publications
 
