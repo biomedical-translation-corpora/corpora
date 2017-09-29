@@ -12,8 +12,8 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 | Corpora       | en/es         | en/fr         | en/pt         |
 | ------------- | ------------- | ------------- | ------------- |
 | EDP           |               | [test WMT'16](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |   |
-| Medline       | Content Cell  | Content Cell  | Content Cell  |
-| ReBEC         | Content Cell  | Content Cell  | Content Cell  |
+| Medline       | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjQjZmYlRZWHQ4SUE)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjQjZmYlRZWHQ4SUE)  | [training](https://drive.google.com/drive/folders/0B3UxRWA52hBjQjZmYlRZWHQ4SUE)  |
+| ReBEC         |               |               | [training](https://github.com/biomedical-translation-corpora/rebec)  |
 | Scielo        | Content Cell  | Content Cell  | Content Cell  |
 
 ### Publications
