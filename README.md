@@ -20,14 +20,23 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 Please cite our publications if you use our corpora. 
 
+(WMT'19 Biomedical Task)
+Bawden R, Bretonnel Cohen K, Grozea C, Jimeno Yepes A, Kittner M, Krallinger M, Mah N, Neveol A, Neves M, Soares F, Siu A, Verspoor A, Vicente Navarro M. Findings of the WMT 2019 Biomedical Translation Shared Task: Evaluation for MEDLINE Abstracts and Biomedical Terminologies , 4th Conference on Machine Translation, ACL 2019, Florence, Italy.  [PDF and BibText](https://www.aclweb.org/anthology/W19-5403/)
+
+(WMT'19 Biomedical Task)
+Neves M, Jimeno Yepes A, Névéol A, Grozea C, Siu A, Kittner M, Verspoor K. Findings of the WMT 2018 Biomedical Translation Shared Task: Evaluation on Medline test sets, Proceedings of the Third Conference on Machine Trasnlation (WMT) at EMNLP, 2018, Brussels, Belgium. [PDF and BibText](https://www.aclweb.org/anthology/W18-6403/)
+
+(Parallel Biomedical Corpora)
+Névéol A, Jimeno Yepes A, Neves M, Verspoor K. Parallel Corpora for the Biomedical Domain, International Conference on Language Resources and Evaluation (LREC), 2018, Myazaki, Japan. [PDF and BibText](https://www.aclweb.org/anthology/L18-1043/)
+
 (WMT'17 Biomedical Task)
-Jimeno Yepes A, N&eacute;v&eacute;ol A, Neves M, Verspoor K, Bojar O, Boyer A, Grozea C, Haddow H, Kittner M, Lichtblau Y, Pecina P, Roller R, Rosa R, Siu A, Thomas P, Trescher S. Findings of the WMT 2017 Biomedical Translation Shared Task, Proceedings of the Second Conference on Machine Translation (WMT17) at the Conference on Empirical Methods on Natural Language Processing (EMNLP 2017), Copenhagen, Denmark. [PDF](http://aclweb.org/anthology/W/W17/W17-4719.pdf) [BibTex](http://aclweb.org/anthology/W/W17/W17-4719.bib)
+Jimeno Yepes A, N&eacute;v&eacute;ol A, Neves M, Verspoor K, Bojar O, Boyer A, Grozea C, Haddow H, Kittner M, Lichtblau Y, Pecina P, Roller R, Rosa R, Siu A, Thomas P, Trescher S. Findings of the WMT 2017 Biomedical Translation Shared Task, Proceedings of the Second Conference on Machine Translation (WMT17) at the Conference on Empirical Methods on Natural Language Processing (EMNLP 2017), Copenhagen, Denmark. [PDF and BibText](https://www.aclweb.org/anthology/W17-4719/)
 
 (WMT'16 Biomedical Task)
-Bojar O, Chatterjee R, Federmann C, Graham Y, Haddow B, Huck M, Jimeno Yepes A, Koehn P, Logacheva V, Monz C, Negri M, N&eacute;v&eacute;ol A, Neves M, Popel M, Post M, Rubino R, Scarton C, Specia L, Turchi M, Verspoor K and Zampieri M. Findings of the 2016 Conference on Machine Translation, ACL 2016, Proceedings of the First Conference on Machine Translation (WMT16), pp. 131-198, 2016, Berlin, Germany. [PDF](https://aclweb.org/anthology/W/W16/W16-2301.pdf) [Bibtex](https://aclweb.org/anthology/W/W16/W16-2301.bib)
+Bojar O, Chatterjee R, Federmann C, Graham Y, Haddow B, Huck M, Jimeno Yepes A, Koehn P, Logacheva V, Monz C, Negri M, N&eacute;v&eacute;ol A, Neves M, Popel M, Post M, Rubino R, Scarton C, Specia L, Turchi M, Verspoor K and Zampieri M. Findings of the 2016 Conference on Machine Translation, ACL 2016, Proceedings of the First Conference on Machine Translation (WMT16), pp. 131-198, 2016, Berlin, Germany. [PDF and BibText](https://www.aclweb.org/anthology/W16-2301/)
 
 (Scielo corpus)
-Neves M, Jimeno-Yepes A and N&eacute;v&eacute;ol A. The Scielo Corpus: a Parallel Corpus of Scientific Publications for Biomedicine, International Conference on Language Resources and Evaluation (LREC), 2016, Portoroz, Slovenia. [PDF and Bibtex](http://www.lrec-conf.org/proceedings/lrec2016/summaries/800.html)
+Neves M, Jimeno-Yepes A and N&eacute;v&eacute;ol A. The Scielo Corpus: a Parallel Corpus of Scientific Publications for Biomedicine, International Conference on Language Resources and Evaluation (LREC), 2016, Portoroz, Slovenia. [PDF and Bibtex](https://www.aclweb.org/anthology/L16-1470/)
 
 ### Support or Contact
 
@@ -36,4 +45,3 @@ Please contact us by [mail](wmtbiomedical@gmail.com). Please also join our [disc
 - Antonio Jimeno Yepes (IBM Research Australia)
 - Aur&eacute;lie N&eacute;v&eacute;ol (LIMSI, CNRS, France)
 - Mariana Neves (German Federal Institute for Risk Assessment, Germany)
-- Karin Verspoor (University of Melbourne, Australia)
