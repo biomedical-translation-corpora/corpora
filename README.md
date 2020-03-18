@@ -1,6 +1,6 @@
 ## Welcome to the repositories of the WMT Biomedical Translation Task
 
-Here we host various datasets that we have compiled for the [Biomedical Translation Task](http://www.statmt.org/wmt17/biomedical-translation-task.html) at [WMT](http://www.statmt.org/wmt17/index.html).
+Here we host various datasets that we have compiled for the [Biomedical Translation Task](http://www.statmt.org/wmt20/biomedical-translation-task.html) at [WMT](http://www.statmt.org/wmt20/index.html).
 
 - [Medline](https://github.com/biomedical-translation-corpora/medline) dataset of titles of scientific publications (FR/EN, PT/EN, ES/EN, DE/EN, ZH/EN, RO/EN, IT/EN, RU/EN)
 - [EDP](https://github.com/biomedical-translation-corpora/edp) dataset of scientific publications (FR/EN)
