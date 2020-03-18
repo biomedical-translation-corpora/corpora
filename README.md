@@ -3,7 +3,7 @@
 Here we host various datasets that we have compiled for the [Biomedical Translation Task](http://www.statmt.org/wmt17/biomedical-translation-task.html) at [WMT](http://www.statmt.org/wmt17/index.html).
 
 - [EDP](https://github.com/biomedical-translation-corpora/edp) dataset of scientific publications (FR/EN)
-- [Medline](https://github.com/biomedical-translation-corpora/medline) dataset of titles of scientific publications (FR/EN, PT/EN, ES/EN)
+- [Medline](https://github.com/biomedical-translation-corpora/medline) dataset of titles of scientific publications (FR/EN, PT/EN, ES/EN, DE/EN, ZH/EN, RO/EN)
 - [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials (PT/EN, ES/EN)
 - [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) of scientific publications (FR/EN, PT/EN, ES/PT)
 
