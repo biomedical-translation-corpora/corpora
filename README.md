@@ -4,7 +4,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 - [Medline](https://github.com/biomedical-translation-corpora/medline) dataset of titles and abstracts of scientific publications (FR/EN, PT/EN, ES/EN, DE/EN, ZH/EN, RO/EN, IT/EN, RU/EN)
 - [EDP](https://github.com/biomedical-translation-corpora/edp) dataset of scientific publications (FR/EN)
-- [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials (PT/EN, ES/EN)
+- [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials (PT/EN)
 - [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) of scientific publications (FR/EN, PT/EN, ES/PT)
 
 ### List of corpora
