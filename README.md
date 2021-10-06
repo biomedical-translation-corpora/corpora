@@ -26,6 +26,9 @@ coming soon...
 (WMT'20 Biomedical Task)
 Bawden R, Di Nunzio GM, Grozea C, Jauregi Unanue I, Jimeno Yepes A, Mah N, Martinez D, Neveol A, Neves M, Oronoz M, Perez de Viñaspre O, Piccardi M, Roller R, Siu A, Thomas P, Vezzani F, Vicente Navarro M, Wiemann D, Yeganova L. Findings of the WMT 2020 Biomedical Translation Shared Task: Basque, Italian and Russian as New Additional Languages, 5th Conference on Machine Translation, EMNLP 2020, online. [PDF and BibText](https://aclanthology.org/2020.wmt-1.76/)
 
+(Survey of Authors’ Abstract Writing Practice)
+Neveol A, Jimeno Yepes A, Neves M. MEDLINE as a Parallel Corpus: a Survey to Gain Insight on French-, Spanish-and Portuguese-Speaking Authors’ Abstract Writing Practice, 12th Language Resources and Evaluation Conference, LREC 2020, Marseille, France. [PDF and BibText](https://aclanthology.org/2020.lrec-1.453/)
+
 (WMT'19 Biomedical Task)
 Bawden R, Bretonnel Cohen K, Grozea C, Jimeno Yepes A, Kittner M, Krallinger M, Mah N, Neveol A, Neves M, Soares F, Siu A, Verspoor A, Vicente Navarro M. Findings of the WMT 2019 Biomedical Translation Shared Task: Evaluation for MEDLINE Abstracts and Biomedical Terminologies , 4th Conference on Machine Translation, ACL 2019, Florence, Italy.  [PDF and BibText](https://www.aclweb.org/anthology/W19-5403/)
 
