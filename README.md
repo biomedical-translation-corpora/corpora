@@ -20,10 +20,16 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 Please cite our publications if you use our corpora. 
 
+(WMT'21 Biomedical Task)
+coming soon...
+
+(WMT'20 Biomedical Task)
+Bawden R, Di Nunzio GM, Grozea C, Jauregi Unanue I, Jimeno Yepes A, Mah N, Martinez D, Neveol A, Neves M, Oronoz M, Perez de Viñaspre O, Piccardi M, Roller R, Siu A, Thomas P, Vezzani F, Vicente Navarro M, Wiemann D, Yeganova L. Findings of the WMT 2020 Biomedical Translation Shared Task: Basque, Italian and Russian as New Additional Languages, 5th Conference on Machine Translation, EMNLP 2020, online. [PDF and BibText](https://aclanthology.org/2020.wmt-1.76/)
+
 (WMT'19 Biomedical Task)
 Bawden R, Bretonnel Cohen K, Grozea C, Jimeno Yepes A, Kittner M, Krallinger M, Mah N, Neveol A, Neves M, Soares F, Siu A, Verspoor A, Vicente Navarro M. Findings of the WMT 2019 Biomedical Translation Shared Task: Evaluation for MEDLINE Abstracts and Biomedical Terminologies , 4th Conference on Machine Translation, ACL 2019, Florence, Italy.  [PDF and BibText](https://www.aclweb.org/anthology/W19-5403/)
 
-(WMT'19 Biomedical Task)
+(WMT'18 Biomedical Task)
 Neves M, Jimeno Yepes A, Névéol A, Grozea C, Siu A, Kittner M, Verspoor K. Findings of the WMT 2018 Biomedical Translation Shared Task: Evaluation on Medline test sets, Proceedings of the Third Conference on Machine Trasnlation (WMT) at EMNLP, 2018, Brussels, Belgium. [PDF and BibText](https://www.aclweb.org/anthology/W18-6403/)
 
 (Parallel Biomedical Corpora)
