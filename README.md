@@ -21,7 +21,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 Please cite our publications if you use our corpora. 
 
 (WMT'21 Biomedical Task)
-coming soon...
+Yeganova L, Wiemann D, Neves M, Vezzani F, SiuA, Jauregi Unanue I, Oronoz M, Mah N, Névéol A, Martinez D, Bawden R, Di Nunzio GM, Roller R, Thomas P, Grozea C, Perez-de-Viñaspre O, Vicente Navarro M and Jimeno Yepes A. Findings of the WMT 2021 Biomedical Translation Shared Task: Summaries of Animal Experiments as New Test Set, 6th Conference on Machine Translation, EMNLP 2021. (coming soon...)
 
 (WMT'20 Biomedical Task)
 Bawden R, Di Nunzio GM, Grozea C, Jauregi Unanue I, Jimeno Yepes A, Mah N, Martinez D, Neveol A, Neves M, Oronoz M, Perez de Viñaspre O, Piccardi M, Roller R, Siu A, Thomas P, Vezzani F, Vicente Navarro M, Wiemann D, Yeganova L. Findings of the WMT 2020 Biomedical Translation Shared Task: Basque, Italian and Russian as New Additional Languages, 5th Conference on Machine Translation, EMNLP 2020, online. [PDF and BibText](https://aclanthology.org/2020.wmt-1.76/)
