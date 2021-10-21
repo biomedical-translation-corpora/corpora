@@ -60,7 +60,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 ### Publications
 
-Please cite our publications if you use our corpora. 
+**Please cite our publications if you use our corpora.**
 
 (WMT'21 Biomedical Task)
 Yeganova L, Wiemann D, Neves M, Vezzani F, Siu A, Jauregi Unanue I, Oronoz M, Mah N, Névéol A, Martinez D, Bawden R, Di Nunzio GM, Roller R, Thomas P, Grozea C, Perez-de-Viñaspre O, Vicente Navarro M and Jimeno Yepes A. Findings of the WMT 2021 Biomedical Translation Shared Task: Summaries of Animal Experiments as New Test Set, 6th Conference on Machine Translation, EMNLP 2021. (coming soon...)
