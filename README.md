@@ -11,9 +11,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 | Corpora    | en/es  | en/fr  | en/pt  | en/de  | en/zh  | en/ro  | en/it  | en/ru  |
 | ---------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| EDP        |               | [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |   |   |   |   |   |   |
 | Medline    | [training1](https://zenodo.org/record/5552299#.YV1orSWxUog), [training2](https://drive.google.com/drive/folders/1yBfh_KFSN0XxP2k9rnkxKNKYvjpj703p), [test WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9), [test WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_), [test WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI)   | [training1](https://zenodo.org/record/5552299#.YV1orSWxUog), [training2](https://drive.google.com/drive/folders/1yBfh_KFSN0XxP2k9rnkxKNKYvjpj703p), [test WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9), [test WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_), [test WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI)  | [training1](https://zenodo.org/record/5552299#.YV1orSWxUog), [training2](https://drive.google.com/drive/folders/1yBfh_KFSN0XxP2k9rnkxKNKYvjpj703p), [test WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9), [test WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_), [test WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI)  | [training](https://drive.google.com/drive/folders/1yBfh_KFSN0XxP2k9rnkxKNKYvjpj703p), [test WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9), [test WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_), [test WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI)  |  [test WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9), [test WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_), [test WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI)  |  [test WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9)  | [training](https://drive.google.com/drive/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI?usp=sharing), [test WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI) | [training](https://drive.google.com/drive/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI?usp=sharing), [test WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI) |
-| ReBEC      |               |               | [training](https://github.com/biomedical-translation-corpora/rebec)  |   |   |   |
 | Scielo     | [training](https://zenodo.org/record/5588265), [GMA training](https://zenodo.org/record/5588379), [test WMT'16](https://zenodo.org/record/5589209), [test WMT'17](https://zenodo.org/record/843862), [monolingual](https://zenodo.org/record/5588794) | [training](https://zenodo.org/record/5588265), [GMA training](https://zenodo.org/record/5588379), [test WMT'16](https://zenodo.org/record/5589209), [monolingual](https://zenodo.org/record/5588794) | [training](https://zenodo.org/record/5588265), [GMA training](https://zenodo.org/record/5588379), [test WMT'16](https://zenodo.org/record/5589209), [test WMT'17](https://zenodo.org/record/843862), [monolingual](https://zenodo.org/record/5588794) |   |   |   |
 
 
@@ -22,6 +20,12 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 | test set    | 2017  | 
 | ---------- | ------ | 
 | en/fr        | [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |
+
+#### ReBEC corpus
+
+| training    |   | 
+| ---------- | ------ | 
+| en/pt      | [training](https://github.com/biomedical-translation-corpora/rebec)  |
 
 ### Publications
 
