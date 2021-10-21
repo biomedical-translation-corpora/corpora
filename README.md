@@ -46,7 +46,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 | test set    | 2017  | 
 | ---------- | ------ | 
-| en/fr        | [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |
+| en/fr        | [test WMT'17](https://cabernet.limsi.fr/EDP_EN.html) |
 
 #### ReBEC corpus
 
