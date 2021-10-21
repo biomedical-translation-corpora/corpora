@@ -19,9 +19,9 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 #### EDP corpus
 
-| Corpora    | en/fr  | 
+| test set    | 2017  | 
 | ---------- | ------ | 
-| EDP        | [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |
+| en/fr        | [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |
 
 ### Publications
 
