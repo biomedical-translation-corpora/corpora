@@ -23,7 +23,9 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 #### ReBEC corpus
 
-| en/pt      | [training](https://github.com/biomedical-translation-corpora/rebec)  |
+| training    |   | 
+| ---------- | ------ | 
+| en/pt      | [dataset](https://github.com/biomedical-translation-corpora/rebec)  |
 
 ### Publications
 
