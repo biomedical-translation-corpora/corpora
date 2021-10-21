@@ -16,8 +16,8 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 #### Scielo corpus
 
 | test set    | 2016  |  2017  | 
-| ---------- | ------ | 
-| en/es, en/fr, en/pt     | [test WMT'16](https://zenodo.org/record/5589209) |  [test WMT'17](https://zenodo.org/record/843862) |
+| ---------- | ------ | ------ | 
+| en/es, en/fr, en/pt | [test WMT'16](https://zenodo.org/record/5589209) |  [test WMT'17](https://zenodo.org/record/843862) |
 
 | training    | parallel  | monolingual  | 
 | ---------- | ------ | ------ | 
