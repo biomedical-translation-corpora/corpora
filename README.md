@@ -16,6 +16,13 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 | ReBEC      |               |               | [training](https://github.com/biomedical-translation-corpora/rebec)  |   |   |   |
 | Scielo     | [training](https://zenodo.org/record/5588265), [GMA training](https://zenodo.org/record/5588379), [test WMT'16](https://zenodo.org/record/5589209), [test WMT'17](https://zenodo.org/record/843862), [monolingual](https://zenodo.org/record/5588794) | [training](https://zenodo.org/record/5588265), [GMA training](https://zenodo.org/record/5588379), [test WMT'16](https://zenodo.org/record/5589209), [monolingual](https://zenodo.org/record/5588794) | [training](https://zenodo.org/record/5588265), [GMA training](https://zenodo.org/record/5588379), [test WMT'16](https://zenodo.org/record/5589209), [test WMT'17](https://zenodo.org/record/843862), [monolingual](https://zenodo.org/record/5588794) |   |   |   |
 
+
+#### EDP corpus
+
+| Corpora    | en/fr  | 
+| ---------- | ------ | 
+| EDP        | [test WMT'17](https://drive.google.com/drive/folders/0B3UxRWA52hBjM01GS3N4OThiX1E) |
+
 ### Publications
 
 Please cite our publications if you use our corpora. 
