@@ -1,11 +1,11 @@
 ## Welcome to the repositories of the WMT Biomedical Translation Task
 
-Here we host various datasets that we have compiled for the [Biomedical Translation Task](http://www.statmt.org/wmt20/biomedical-translation-task.html) at [WMT](http://www.statmt.org/wmt20/index.html).
+Here we host various datasets that we have compiled for the [Biomedical Translation Task](http://www.statmt.org/wmt21/biomedical-translation-task.html) at [WMT](http://www.statmt.org/wmt21/index.html).
 
-- [Medline](https://github.com/biomedical-translation-corpora/medline) dataset of titles and abstracts of scientific publications (FR/EN, PT/EN, ES/EN, DE/EN, ZH/EN, RO/EN, IT/EN, RU/EN)
-- [EDP](https://github.com/biomedical-translation-corpora/edp) dataset of scientific publications (FR/EN)
-- [ReBEC](https://github.com/biomedical-translation-corpora/rebec) clinical trials (PT/EN)
-- [Scielo dataset](http://github.com/biomedical-translation-corpora/scielo) of scientific publications (FR/EN, PT/EN, ES/PT)
+- Medline dataset of titles and abstracts of scientific publications (FR/EN, PT/EN, ES/EN, DE/EN, ZH/EN, RO/EN, IT/EN, RU/EN)
+- Scielo of scientific publications (FR/EN, PT/EN, ES/PT)
+- EDP dataset of scientific publications (FR/EN)
+- ReBEC clinical trials (PT/EN)
 
 ### List of corpora
 
