@@ -93,6 +93,6 @@ Neves M, Jimeno-Yepes A and N&eacute;v&eacute;ol A. The Scielo Corpus: a Paralle
 
 Please contact us by [mail](wmtbiomedical@gmail.com). Please also join our [discussion forum](https://groups.google.com/forum/?hl=en#!forum/wmt-biomedical-task). 
 
-- Antonio Jimeno Yepes (IBM Research Australia)
+- Antonio Jimeno Yepes (RMIT University, Australia)
 - Aur&eacute;lie N&eacute;v&eacute;ol (LIMSI, CNRS, France)
 - Mariana Neves (German Federal Institute for Risk Assessment, Germany)
