@@ -11,19 +11,19 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 #### Medline corpus
 
-| datasets   |  2016 |  2017 |  2018 |  2019 |  2020 |  2021 |
-| ---------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| datasets   |  2016 |  2017 |  2018 |  2019 |  2020 |  2021 |  2022 |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | training   | [WMT'16](https://zenodo.org/record/5552299#.YV1orSWxUog) | | | [WMT'19](https://drive.google.com/drive/folders/1yBfh_KFSN0XxP2k9rnkxKNKYvjpj703p) | [WMT'20](https://drive.google.com/drive/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI?usp=sharing) | |
-| test set   | | | [WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9) | [WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_) | [WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI) | [WMT'21](https://drive.google.com/drive/u/1/folders/1ujEhu_fAW6Ufo9KGYBqW8TYLc8kYSspz) |
+| test set   | | | [WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9) | [WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_) | [WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI) | [WMT'21](https://drive.google.com/drive/u/1/folders/1ujEhu_fAW6Ufo9KGYBqW8TYLc8kYSspz) | [WMT'22](trainWmt22.zip) |
 
-| training    |  2016  |  2019  |  2020  |
-| ----------  | ------ | ------ | ------ |
-| en/es       |    x   |    x   |        |
-| en/fr       |    x   |    x   |        |
-| en/pt       |    x   |    x   |        |
-| en/de       |        |    x   |        |
-| en/it       |        |        |    x   |
-| en/ru       |        |        |    x   |
+| training    |  2016  |  2019  |  2020  |  2022  |
+| ----------  | ------ | ------ | ------ | ------ |
+| en/es       |    x   |    x   |        |    x   |
+| en/fr       |    x   |    x   |        |    x   |
+| en/pt       |    x   |    x   |        |    x   |
+| en/de       |        |    x   |        |    x   |
+| en/it       |        |        |    x   |    x   |
+| en/ru       |        |        |    x   |    x   |
 
 | test set    |  2018  |  2019  |  2020  |  2021  | 
 | ----------  | ------ | ------ | ------ | ------ | 
@@ -63,7 +63,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 **Please cite our publications if you use our corpora.**
 
 (WMT'21 Biomedical Task)
-Yeganova L, Wiemann D, Neves M, Vezzani F, Siu A, Jauregi Unanue I, Oronoz M, Mah N, Névéol A, Martinez D, Bawden R, Di Nunzio GM, Roller R, Thomas P, Grozea C, Perez-de-Viñaspre O, Vicente Navarro M and Jimeno Yepes A. Findings of the WMT 2021 Biomedical Translation Shared Task: Summaries of Animal Experiments as New Test Set, 6th Conference on Machine Translation, EMNLP 2021. (coming soon...)
+Yeganova L, Wiemann D, Neves M, Vezzani F, Siu A, Jauregi Unanue I, Oronoz M, Mah N, Névéol A, Martinez D, Bawden R, Di Nunzio GM, Roller R, Thomas P, Grozea C, Perez-de-Viñaspre O, Vicente Navarro M and Jimeno Yepes A. Findings of the WMT 2021 Biomedical Translation Shared Task: Summaries of Animal Experiments as New Test Set, 6th Conference on Machine Translation, EMNLP 2021. [PDF and BibText](https://aclanthology.org/2021.wmt-1.70/)
 
 (WMT'20 Biomedical Task)
 Bawden R, Di Nunzio GM, Grozea C, Jauregi Unanue I, Jimeno Yepes A, Mah N, Martinez D, Neveol A, Neves M, Oronoz M, Perez de Viñaspre O, Piccardi M, Roller R, Siu A, Thomas P, Vezzani F, Vicente Navarro M, Wiemann D, Yeganova L. Findings of the WMT 2020 Biomedical Translation Shared Task: Basque, Italian and Russian as New Additional Languages, 5th Conference on Machine Translation, EMNLP 2020, online. [PDF and BibText](https://aclanthology.org/2020.wmt-1.76/)
