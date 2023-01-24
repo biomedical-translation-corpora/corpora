@@ -64,6 +64,10 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 **Please cite our publications if you use our corpora.**
 
+(WMT'22 Biomedical Task)
+Neves M, Jimeno Yepes A, SiuA, Roller R, Thomas P, Vicente Navarro M, Yeganova L, Wiemann D, Di Nunzio GM, Vezzani F, Gerardin C, Bawden R, Johan Estrada D, Lima-Lopez S, Farre-Maduel E, Krallinger M, Grozea C, Neveol A. Findings of the WMT 2022 Biomedical Translation Shared Task: Monolingual Clinical Case Reports.
+[PDF](https://www.statmt.org/wmt22/pdf/2022.wmt-1.69.pdf) [BibText](https://www.statmt.org/wmt22/bib/2022.wmt-1.69.bib)
+
 (WMT'21 Biomedical Task)
 Yeganova L, Wiemann D, Neves M, Vezzani F, Siu A, Jauregi Unanue I, Oronoz M, Mah N, Névéol A, Martinez D, Bawden R, Di Nunzio GM, Roller R, Thomas P, Grozea C, Perez-de-Viñaspre O, Vicente Navarro M and Jimeno Yepes A. Findings of the WMT 2021 Biomedical Translation Shared Task: Summaries of Animal Experiments as New Test Set, 6th Conference on Machine Translation, EMNLP 2021. [PDF and BibText](https://aclanthology.org/2021.wmt-1.70/)
 
