@@ -14,7 +14,7 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 | datasets   |  2016 |  2017 |  2018 |  2019 |  2020 |  2021 |  2022 |
 | ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | training   | [WMT'16](https://zenodo.org/record/5552299#.YV1orSWxUog) | | | [WMT'19](https://drive.google.com/drive/folders/1yBfh_KFSN0XxP2k9rnkxKNKYvjpj703p) | [WMT'20](https://drive.google.com/drive/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI?usp=sharing) | | [WMT'22](trainWmt22.zip)<sup>1</sup> |
-| test set   | | | [WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9) | [WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_) | [WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI) | [WMT'21](https://drive.google.com/drive/u/1/folders/1ujEhu_fAW6Ufo9KGYBqW8TYLc8kYSspz) |  |
+| test set   | | | [WMT'18](https://drive.google.com/drive/u/1/folders/1hmn24Xr1gJIQ9tsYwUJGgia19davCNz9) | [WMT'19](https://drive.google.com/drive/u/0/folders/1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_) | [WMT'20](https://drive.google.com/drive/u/1/folders/1G_OTHKDJ4vmZB-5TFDZPc7tYigw-JYBI) | [WMT'21](https://drive.google.com/drive/u/1/folders/1ujEhu_fAW6Ufo9KGYBqW8TYLc8kYSspz) | [WMT'22](https://drive.google.com/drive/folders/1W_zVbS5yb921bpSZW-Ca9nKoWXmim1xU?usp=sharing) |
 
 <sup>1</sup> The parallel abstracts can be retrieved from Medline using our script: [wmtbio22_train_data.py](wmtbio22_train_data.py). It uses [biopython](https://biopython.org/docs/1.75/api/Bio.Entrez.html) and you'll need a valid email to access the data in Medline.
 
