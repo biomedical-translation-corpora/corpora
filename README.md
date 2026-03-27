@@ -64,6 +64,10 @@ Here we host various datasets that we have compiled for the [Biomedical Translat
 
 **Please cite our publications if you use our corpora.**
 
+(WMT'23 Biomedical Task)
+Neves M, Jimeno Yepes A, Névéol A, Bawden R, Di Nunzio GM, Roller R, Thomas P, Vezzani F, Vicente Navarro M, Yeganova L, Wiemann D, Grozea C. Findings of the WMT 2023 Biomedical Translation Shared Task: Evaluation of ChatGPT 3.5 as a Comparison System. Eighth Conference on Machine Translation. 2023:43-54
+[PDF](https://www2.statmt.org/wmt23/pdf/2023.wmt-1.2.pdf) [BibText](https://www2.statmt.org/wmt23/bib/2023.wmt-1.2.bib)
+
 (WMT'22 Biomedical Task)
 Neves M, Jimeno Yepes A, SiuA, Roller R, Thomas P, Vicente Navarro M, Yeganova L, Wiemann D, Di Nunzio GM, Vezzani F, Gerardin C, Bawden R, Johan Estrada D, Lima-Lopez S, Farre-Maduel E, Krallinger M, Grozea C, Neveol A. Findings of the WMT 2022 Biomedical Translation Shared Task: Monolingual Clinical Case Reports.
 [PDF](https://www.statmt.org/wmt22/pdf/2022.wmt-1.69.pdf) [BibText](https://www.statmt.org/wmt22/bib/2022.wmt-1.69.bib)
